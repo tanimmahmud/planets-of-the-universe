@@ -1,0 +1,10 @@
+
+title: planets-of-the-universe
+email: tanimmahmud08@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  practice filed fo jekyll
+baseurl: /planets-of-the-universe
+
+# Build settings
+markdown: kramdown
+
